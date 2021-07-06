@@ -140,10 +140,24 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="chapter2_001.cpp" />
+    <ClCompile Include="chapter2_002_001.cpp" />
+    <ClCompile Include="chapter2_002_003.cpp" />
+    <ClCompile Include="chapter2_002_002.cpp" />
+    <ClCompile Include="chapter2_003.cpp" />
+    <ClCompile Include="chapter2_004_003, 004.cpp" />
+    <ClCompile Include="chapter2_005.cpp" />
+    <ClCompile Include="chapter2_004_001, 002.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="chapter2_001.h" />
+    <ClInclude Include="chapter2_002_001.h" />
+    <ClInclude Include="chapter2_002_002.h" />
+    <ClInclude Include="chapter2_002_003.h" />
+    <ClInclude Include="chapter2_003.h" />
+    <ClInclude Include="chapter2_004_001, 002.h" />
+    <ClInclude Include="chapter2_004_003, 004.h" />
+    <ClInclude Include="chapter2_005.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

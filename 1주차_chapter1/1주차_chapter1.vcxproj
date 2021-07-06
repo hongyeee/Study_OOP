@@ -145,7 +145,7 @@
     <ClCompile Include="chapter1_005_001.cpp" />
     <ClCompile Include="chapter1_006_001.cpp" />
     <ClCompile Include="chapter1_006_002.cpp" />
-    <ClCompile Include="chapter1_007_001.cpp" />
+    <ClCompile Include="chapter1_007.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -155,7 +155,7 @@
     <ClInclude Include="chapter1_005_001.h" />
     <ClInclude Include="chapter1_006_001.h" />
     <ClInclude Include="chapter1_006_002.h" />
-    <ClInclude Include="chapter1_007_001.h" />
+    <ClInclude Include="chapter1_007.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

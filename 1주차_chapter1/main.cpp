@@ -4,7 +4,7 @@
 #include "chapter1_005_001.h"
 #include "chapter1_006_001.h"
 #include "chapter1_006_002.h"
-#include "chapter1_007_001.h"
+#include "chapter1_007.h"
 
 int main()
 {
@@ -17,7 +17,7 @@ int main()
 	sixone_two();
 	sixone_three();
 	sixtwo();
-	sevenone();
+	seven();
 
 
 	return 0;

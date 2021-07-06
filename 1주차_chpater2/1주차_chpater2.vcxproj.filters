@@ -21,9 +21,51 @@
     <ClCompile Include="chapter2_001.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="chapter2_002_001.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter2_002_002.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter2_002_003.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter2_003.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter2_004_001, 002.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter2_005.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter2_004_003, 004.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="chapter2_001.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="chapter2_002_001.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="chapter2_002_003.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="chapter2_003.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="chapter2_004_001, 002.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="chapter2_005.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="chapter2_004_003, 004.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="chapter2_002_002.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,3 +1,7 @@
+// 1.6 참조자 형식
+
+//1.6.2 r-value 참조
+
 #include <iostream>
 #include "chapter1_006_002.h"
 using namespace std;

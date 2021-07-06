@@ -1,4 +1,6 @@
-// 1.3.1 std::cout //
+// 1.3 인스턴스와 입출력 흐름
+
+// 1.3.1 std::cout
 
 #include <iostream>
 #include <string>

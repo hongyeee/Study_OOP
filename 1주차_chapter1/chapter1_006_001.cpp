@@ -1,3 +1,7 @@
+// 1.6 참조자 형식
+
+//1.6.1 참조형 변수 선언과 정의
+
 #include <iostream>
 #include "chapter1_006_001.h"
 using namespace std;
