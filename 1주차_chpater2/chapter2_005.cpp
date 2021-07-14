@@ -42,7 +42,7 @@ namespace TEST3
 }
 
 /* 전역변수는 네임스페이스를 생각하지 말고 선언 순서를 생각
-int nData = 200;
+int Data = 200;
 
 namespace TEST3
 {
@@ -62,6 +62,7 @@ void fivethree()
 {
 	TEST3::TestFunc();
 }
+
 
 // 2.5.4 usgin 선언과 전역변수
 int nnData = 100;

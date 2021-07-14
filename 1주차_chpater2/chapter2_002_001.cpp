@@ -1,6 +1,6 @@
 // 2.2 함수 다중 정의
 
-//2.2.1 다중 정의 일반
+// 2.2.1 다중 정의 일반
 
 #include <iostream>
 #include "chapter2_002_001.h"
