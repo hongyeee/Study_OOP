@@ -144,8 +144,18 @@
     <ClCompile Include="Chapter3_002_001_2.cpp" />
     <ClCompile Include="Chapter3_002_001_3.cpp" />
     <ClCompile Include="Chapter3_002_002.cpp" />
+    <ClCompile Include="Chapter3_003_001.cpp" />
+    <ClCompile Include="Chapter3_003_002.cpp" />
+    <ClCompile Include="Chapter3_003_003_1.cpp" />
+    <ClCompile Include="Chapter3_003_003_2.cpp" />
+    <ClCompile Include="Chapter3_003_004.cpp" />
     <ClCompile Include="Chapter3_003_1.cpp" />
     <ClCompile Include="Chapter3_003_2.cpp" />
+    <ClCompile Include="Chapter3_004_001.cpp" />
+    <ClCompile Include="Chapter3_004_003.cpp" />
+    <ClCompile Include="Chapter3_004_005.cpp" />
+    <ClCompile Include="Chapter3_004_006.cpp" />
+    <ClCompile Include="Chapter3_005.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -154,8 +164,18 @@
     <ClInclude Include="Chapter3_002_001_2.h" />
     <ClInclude Include="Chapter3_002_001_3.h" />
     <ClInclude Include="Chapter3_002_002.h" />
+    <ClInclude Include="Chapter3_003_001.h" />
+    <ClInclude Include="Chapter3_003_002.h" />
+    <ClInclude Include="Chapter3_003_003_1.h" />
+    <ClInclude Include="Chapter3_003_003_2.h" />
+    <ClInclude Include="Chapter3_003_004.h" />
     <ClInclude Include="Chapter3_003_1.h" />
     <ClInclude Include="Chapter3_003_2.h" />
+    <ClInclude Include="Chapter3_004_001.h" />
+    <ClInclude Include="Chapter3_004_003.h" />
+    <ClInclude Include="Chapter3_004_005.h" />
+    <ClInclude Include="Chapter3_004_006.h" />
+    <ClInclude Include="Chapter3_005.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
