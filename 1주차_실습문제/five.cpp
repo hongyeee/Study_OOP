@@ -10,7 +10,7 @@ void five()
 	int count = 0;
 	for (int i = 0; i < sizeof(words); i++)
 	{
-		if (words[i] == ' ')
+		if (words[i] == 'x')
 		{
 			count += 1;
 		}

@@ -15,4 +15,5 @@ void three()
 	{
 		cout << "큰 수 = " << y << endl;
 	}
+	cout << "큰 수 = " << max(x,y) << endl;
 }
