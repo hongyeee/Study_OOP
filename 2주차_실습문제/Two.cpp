@@ -14,7 +14,7 @@ Two::Two(int year, int month, int day)
 Two::Two(string newdata)
 {		
 	string y, m, d;
-	int index[3] = { 0 };
+	int index[2] = { 0 };
 	int count = 0;
 	int length = newdata.length();
 

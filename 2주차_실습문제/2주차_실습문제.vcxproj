@@ -139,13 +139,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Five.cpp" />
+    <ClCompile Include="Four.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="One.cpp" />
+    <ClCompile Include="Six.cpp" />
     <ClCompile Include="Three.cpp" />
     <ClCompile Include="Two.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Five.h" />
+    <ClInclude Include="Four.h" />
     <ClInclude Include="One.h" />
+    <ClInclude Include="Six.h" />
     <ClInclude Include="Three.h" />
     <ClInclude Include="Two.h" />
   </ItemGroup>
