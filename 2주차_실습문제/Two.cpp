@@ -30,7 +30,7 @@ Two::Two(string newdata)
 
 	y = newdata.substr(0, index[0] - 1);
 	m = newdata.substr(index[0]+1, index[1] - 1);
-	d = newdata.substr(index[1] + 1, index[2] - 1);
+	d = newdata.substr(index[1] + 1, -1);
 	year = stoi(y);
 	month = stoi(m);
 	day = stoi(d);

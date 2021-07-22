@@ -139,20 +139,38 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Add.cpp" />
+    <ClCompile Include="Div.cpp" />
+    <ClCompile Include="Eight.cpp" />
+    <ClCompile Include="Eleven.cpp" />
     <ClCompile Include="Five.cpp" />
     <ClCompile Include="Four.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Mul.cpp" />
+    <ClCompile Include="Nine.cpp" />
     <ClCompile Include="One.cpp" />
+    <ClCompile Include="Seven.cpp" />
     <ClCompile Include="Six.cpp" />
+    <ClCompile Include="Sub.cpp" />
     <ClCompile Include="Three.cpp" />
+    <ClCompile Include="Twelve.cpp" />
     <ClCompile Include="Two.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Add.h" />
+    <ClInclude Include="Div.h" />
+    <ClInclude Include="Eight.h" />
+    <ClInclude Include="Eleven.h" />
     <ClInclude Include="Five.h" />
     <ClInclude Include="Four.h" />
+    <ClInclude Include="Mul.h" />
+    <ClInclude Include="Nine.h" />
     <ClInclude Include="One.h" />
+    <ClInclude Include="Seven.h" />
     <ClInclude Include="Six.h" />
+    <ClInclude Include="Sub.h" />
     <ClInclude Include="Three.h" />
+    <ClInclude Include="Twelve.h" />
     <ClInclude Include="Two.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
