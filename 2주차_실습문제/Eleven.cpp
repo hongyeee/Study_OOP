@@ -14,7 +14,9 @@ void Eleven::draw()
 	{
 		for (int m = 0; m < width; m++)
 		{
-			cout << endl;
+			cout << fill;
 		}
+		cout << endl;
+
 	}
 }
