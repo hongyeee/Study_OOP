@@ -6,6 +6,7 @@
 #include "six.h"
 #include "seven.h"
 #include "eight.h"
+#include "nine.h"
 
 int main()
 {
@@ -17,6 +18,7 @@ int main()
 	//five_sol();
 	//six_sol();
 	//seven_sol();
-	eigth_sol();
+	//eigth_sol();
+	nine_sol();
 	return 0;
 }
