@@ -18,31 +18,31 @@
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="one.cpp">
+    <ClCompile Include="chapter8_one.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="two.cpp">
+    <ClCompile Include="chapter8_two.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="three.cpp">
+    <ClCompile Include="chapter8_three.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="four.cpp">
+    <ClCompile Include="chapter8_four.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="five.cpp">
+    <ClCompile Include="chapter8_five.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="six.cpp">
+    <ClCompile Include="chapter8_six.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="seven.cpp">
+    <ClCompile Include="chapter8_seven.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="eight.cpp">
+    <ClCompile Include="chapter8_eight.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="nine.cpp">
+    <ClCompile Include="chapter8_nine.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
